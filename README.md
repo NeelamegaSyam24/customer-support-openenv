@@ -117,7 +117,7 @@ docker run -p 7860:7860 openenv
 ## ⚙️ Installation (Local Setup)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/customer-support-openenv.git
+git clone https://github.com/NeelamegaSyam24/customer-support-openenv.git
 cd customer-support-openenv
 
 pip install -r requirements.txt
