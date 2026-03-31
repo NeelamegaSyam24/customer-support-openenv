@@ -1,0 +1,12 @@
+name: customer-support-env
+description: Multi-turn AI environment for customer support simulation
+
+version: 1.1
+
+observation_space:
+  type: object
+
+action_space:
+  type: object
+
+reward_range: [0.0, 1.0]
